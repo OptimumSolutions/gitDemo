@@ -7,7 +7,7 @@ nameing used in this example:
 - v3 = version 3 of the file (which is edited by developer2)
 
 # manual way (pull and edit manually)
-1) 2 developers download the fileV1
+1) 2 developers download the fileV1<br/>
 ![](Untitled.jpg)
 
 2) 1st developer update the and commmit the changes 1st (now the git repository is V2 of the file).
